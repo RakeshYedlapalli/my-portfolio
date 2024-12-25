@@ -1,0 +1,6 @@
+{
+    "routes": [
+      { "src": "/my-portfolio/manifest.json", "dest": "/public/my-portfolio/manifest.json" }
+    ]
+  }
+  
